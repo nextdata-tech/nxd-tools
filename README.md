@@ -67,7 +67,3 @@ ruff format .
 # Build package
 python -m build
 ```
-
-## License
-
-MIT
