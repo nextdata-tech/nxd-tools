@@ -3,7 +3,7 @@ name = "nxd-tools"
 version = "0.1.0"
 description = "Collection of tools for working with MCP and other protocols"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.10"
 authors = [
     { name = "Nextdata", email = "dev@nextdata.com" }
 ]
